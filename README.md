@@ -15,4 +15,6 @@ This repository contains my daily progress from May 23, 2020 for the next 100 da
 
 *Splitting of dataset into train and test using test_train_split function of sklearn.model_selection library
 
-*Standardisation of data before training to maintain mean = 0 and standard deviation = 1
+*Standardization of data before training to maintain mean = 0 and standard deviation = 1
+
+&nbsp; using preprocessing.StandardScaler() from sklearn library
