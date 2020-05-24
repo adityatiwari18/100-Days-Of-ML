@@ -5,7 +5,7 @@ This repository contains my daily progress from May 23, 2020 for the next 100 da
  
  dataset:[ here ](https://github.com/adityatiwari18/100-Days-Of-ML-Code/tree/master/Datasets)
 
-# Day 1
+# Day 1 Data Preprocessing
 
 *Importing .csv Dataset using pandas
 
@@ -18,3 +18,15 @@ This repository contains my daily progress from May 23, 2020 for the next 100 da
 *Standardization of data before training to maintain mean = 0 and standard deviation = 1
 
 &nbsp; using preprocessing.StandardScaler() from sklearn library
+
+# Day 2 LinearRegression
+
+*Libraries used: Numpy, Pandas, Sklearn, Matplotlib
+
+*Preprocessing the data(Normalization and splitting of data)
+
+*Importing Linear Regression model from sklearn.linear_model library
+
+*Performing Linear regression on training data
+
+*Predicting and Plotting the result
