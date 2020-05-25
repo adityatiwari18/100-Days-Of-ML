@@ -30,3 +30,13 @@ This repository contains my daily progress from May 23, 2020 for the next 100 da
 *Performing Linear regression on training data
 
 *Predicting and Plotting the result
+
+# Day 3 Fitting Multiple LinearRegression
+
+*Libraries used: Numpy, Pandas, Sklearn, Matplotlib
+
+*Preprocessing the data(Label Encoding ,Normalization and splitting of data)
+
+*Performing multiple Linear Regression.
+
+*Predicting the result
