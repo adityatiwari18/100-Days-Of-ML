@@ -40,3 +40,17 @@ This repository contains my daily progress from May 23, 2020 for the next 100 da
 *Performing multiple Linear Regression.
 
 *Predicting the result
+
+# Day 4 LogisticRegression 
+
+*Libraries used: Numpy, Pandas, Sklearn, Matplotlib
+
+*Preprocessing the data(Standardization and splitting of data)
+
+*Training the logistic regression model
+
+*Predicting the result
+
+*Calculating Accuracy of a model
+
+
