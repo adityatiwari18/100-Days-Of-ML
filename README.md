@@ -53,4 +53,9 @@ This repository contains my daily progress from May 23, 2020 for the next 100 da
 
 *Calculating Accuracy of a model
 
+# Day 5 LogisticRegression Cont.
+
+&nbsp; [ Click here ](https://medium.com/@tiwari.adityacool/how-logistic-regression-classifies-cd4b02ed9554)to see is my blog on 'How Logistic Regression classifies'
+
+
 
