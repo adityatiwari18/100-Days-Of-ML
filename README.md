@@ -55,7 +55,9 @@ This repository contains my daily progress from May 23, 2020 for the next 100 da
 
 # Day 5 LogisticRegression Cont.
 
-&nbsp; [ Click here ](https://medium.com/@tiwari.adityacool/how-logistic-regression-classifies-cd4b02ed9554)to see is my blog on 'How Logistic Regression classifies'
+&nbsp; For the next few days I will be exploring this topic in detail.
+
+&nbsp; [ Click here ](https://medium.com/@tiwari.adityacool/how-logistic-regression-classifies-cd4b02ed9554)to see my blog on 'How Logistic Regression classifies'
 
 
 
