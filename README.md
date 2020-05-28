@@ -59,5 +59,9 @@ This repository contains my daily progress from May 23, 2020 for the next 100 da
 
 &nbsp; [ Click here ](https://medium.com/@tiwari.adityacool/how-logistic-regression-classifies-cd4b02ed9554)to see my blog on 'How Logistic Regression classifies'
 
+# Day 6 LogisticRegression (Importance of Sigmoid function)
+
+&nbsp; [ Click here ](https://medium.com/@tiwari.adityacool/importance-of-sigmoid-function-in-logistic-regression-be092cb76070?sk=16ce86f5b6f3a7ae9615f0d163c130ed)to see my blog on 'Importance of Sigmoid Function in Logistic Regression'
+
 
 
