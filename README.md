@@ -1,4 +1,4 @@
-# 100-Days-Of-ML-Code
+# 100-Days-Of-ML
 This repository contains my daily progress from May 23, 2020 for the next 100 days
 
  code:[ here](https://github.com/adityatiwari18/100-Days-Of-ML-Code/blob/master/Code)
@@ -63,7 +63,7 @@ This repository contains my daily progress from May 23, 2020 for the next 100 da
 
 &nbsp; [ Click here ](https://medium.com/@tiwari.adityacool/importance-of-sigmoid-function-in-logistic-regression-be092cb76070?sk=16ce86f5b6f3a7ae9615f0d163c130ed)to see my blog on 'Importance of Sigmoid Function in Logistic Regression'
 
-# Day 6 LogisticRegression (Loss Function and Back-propogation)
+# Day 7 LogisticRegression (Loss Function and Back-propogation)
 
 &nbsp; Understanding the Loss function and hw backpropogation works in Logistic Regression
 
