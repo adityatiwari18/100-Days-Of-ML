@@ -65,5 +65,16 @@ This repository contains my daily progress from May 23, 2020 for the next 100 da
 
 # Day 7 LogisticRegression (Loss Function and Back-propogation)
 
-&nbsp; Understanding the Loss function and hw backpropogation works in Logistic Regression
+&nbsp; Understanding the Loss function and how backpropogation works in Logistic Regression
+
+# Day 8 EDA on Spotify Dataset
+
+&nbsp; For more Information [click here](https://github.com/adityatiwari18/EDA-On-Spotify-Top-50-Songs)
+
+# Day 9 Support Vector Machines (SVM)
+
+&nbsp;Today I learnt the concepts of SVM which includes the Geometric Intuition, the mathematical formulation.
+
+&nbsp;Types of SVM: Hard margin SVM, Soft margin SVM
+
 
