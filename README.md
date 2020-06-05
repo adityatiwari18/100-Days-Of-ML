@@ -75,6 +75,14 @@ This repository contains my daily progress from May 23, 2020 for the next 100 da
 
 &nbsp;Today I learnt the concepts of SVM which includes the Geometric Intuition, the mathematical formulation.
 
-&nbsp;Types of SVM: Hard margin SVM, Soft margin SVM
+&nbsp;Types of SVM: Hard margin SVM, Soft margin SVM. Kernals in SVM.
+
+# Day 10 Support Vector Machines (SVM)
+
+&nbsp;Today I wrote a blog on ['Visualizing Support Vector Machine'](https://medium.com/@tiwari.adityacool/visualizing-support-vector-machine-svm-520ad433a54b?sk=01a8b38b1626503711b9edd2de7f0d81) 
+
+# Day 11 Implementing Support Vector Machine
+
+&nbsp; Starting to work on SVM. Starting by Exploratory data analysis
 
 
