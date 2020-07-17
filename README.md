@@ -31,7 +31,7 @@ This repository contains my progress on ML. Here I will push my code, tell what 
 
 *Predicting and Plotting the result
 
-# Day 3 Fitting Multiple LinearRegression
+# Fitting Multiple LinearRegression
 
 *Libraries used: Numpy, Pandas, Sklearn, Matplotlib
 
