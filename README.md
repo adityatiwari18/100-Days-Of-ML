@@ -1,5 +1,5 @@
 # ML-Coding
-This repository contains my daily progress from May 23, 2020 for the next 100 days
+This repository contains my progress on ML. Here I will push my code, tell what i have learnt and will update the link of my blogs related to ML.
 
  code:[ here](https://github.com/adityatiwari18/100-Days-Of-ML-Code/blob/master/Code)
  
